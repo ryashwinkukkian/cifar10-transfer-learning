@@ -24,7 +24,7 @@ Hypothesis: at 32×32 resolution, texture and silhouette differences
 are insufficient to separate visually similar classes reliably.
 Screenshots
 ![Training Curves](training_curves.png)
-![Confusion Matrix](confusion_matrix.png)
+![Confusion_Matrix](confusion_matrix.png)
 ![Misclassified](misclassified.png)
 Reflection
 The two-phase training approach was the most important design decision.
